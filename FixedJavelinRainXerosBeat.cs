@@ -52,5 +52,9 @@ public class FixedJavelinRainXerosBeat : MelonMod
         fclHeartsSkill_t tmpHeartsSkill = tblHearts.fclHeartsTbl[20].Skill[2];
         tblHearts.fclHeartsTbl[20].Skill[2] = tblHearts.fclHeartsTbl[15].Skill[2];
         tblHearts.fclHeartsTbl[15].Skill[2] = tmpHeartsSkill;
+
+        // Buff their ailment rate
+        datNormalSkill.tbl[143].badlevel = 45;
+        datNormalSkill.tbl[133].badlevel = 35;
     }
 }

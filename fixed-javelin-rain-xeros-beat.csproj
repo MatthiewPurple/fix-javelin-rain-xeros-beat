@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>fixed_javelin_rain_xeros_beat</RootNamespace>
-    <AssemblyName>fixed_javelin_rain_xeros_beat</AssemblyName>
+    <RootNamespace>fixed_and_buffed_javelin_rain_xeros_beat</RootNamespace>
+    <AssemblyName>fixed_and_buffed_javelin_rain_xeros_beat</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
